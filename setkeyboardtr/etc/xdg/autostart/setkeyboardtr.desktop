@@ -1,0 +1,7 @@
+#bayram KARAHAN bayramk@gmail.com
+
+[Desktop Entry]
+Exec=sh -c "/usr/bin/setxkbmap tr"
+Type=Application
+Name[tr_TR.UTF-8]=setkeyboardtr.desktop
+Name[tr_TR]=setkeyboardtr.desktop
